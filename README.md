@@ -1,2 +1,3 @@
 ### Operation Vigilant Overwatch
 The United States Air Force Cyber Operations Squadrons are the vanguard of digital warfare, tasked with engineering the tools that maintain American cyber dominance. However, this prestige makes them a primary target. Advanced foreign adversaries—seeking to bolster their own arsenals and degrade our capabilities—are in a constant state of reconnaissance, looking for any gap to infiltrate, sabotage, or exfiltrate sensitive data.
+Notably, I competed as a solo participant in this challenge, securing a hard-fought 14th place among numerous multi-member teams, demonstrating exceptional individual technical proficiency and operational resilience.
